@@ -17,4 +17,7 @@ public class Class1 {
         //3.0
     }
     
+    private void f4() {
+        //v4.0(under development)
+    }
 }
